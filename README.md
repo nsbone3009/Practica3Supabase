@@ -1,9 +1,9 @@
 # Práctica 3 - Consulta de Alumnos con Supabase
 
-**Materia:** [POR COMPLETAR]  
-**Estudiante:** [POR COMPLETAR]  
-**Fecha:** [POR COMPLETAR]  
-**Institución:** [POR COMPLETAR]
+**Materia:** Aplicaciones Móviles
+**Estudiante:** Niurca Scarleth Bone Arroyo
+**Fecha:** 17/11/2026
+**Institución:** Universidad Técnica Estatal de Quevedo
 
 ---
 ## Descripción
