@@ -1,9 +1,9 @@
 # Práctica 3 - Consulta de Alumnos con Supabase
 
-**Materia:** [POR COMPLETAR]  
-**Estudiante:** [POR COMPLETAR]  
-**Fecha:** [POR COMPLETAR]  
-**Institución:** [POR COMPLETAR]
+**Materia:** Aplicaciones Móviles<br>
+**Estudiante:** Niurca Scarleth Bone Arroyo<br>
+**Fecha:** 17/11/2026<br>
+**Institución:** Universidad Técnica Estatal de Quevedo
 
 ---
 ## Descripción
@@ -13,7 +13,7 @@ Esta es una aplicación móvil para Android desarrollada en Kotlin que realiza l
 ---
 ## Captura de Pantalla de la Lista de Alumnos
 
-[Captura de pantalla de la lista de alumnos](app/src/main/res/drawable/Evidencia_practica4.png)
+![Captura de pantalla de la lista de alumnos](app/src/main/res/drawable/Evidencia_practica4.png)
 
 ---
 ## Características
