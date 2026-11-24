@@ -13,7 +13,7 @@ Esta es una aplicación móvil para Android desarrollada en Kotlin que realiza l
 ---
 ## Captura de Pantalla de la Lista de Alumnos
 
-![Captura de pantalla de la lista de alumnos](app/src/main/res/drawable/Evidencia_practica4.png)
+![Captura de pantalla de la lista de alumnos](app/src/main/res/drawable/evidencia_practica4.png)
 
 ---
 ## Características
@@ -80,7 +80,7 @@ Practica1711/
             │                   └── SupabaseErrorHandler.kt
             └── res/
                 ├── drawable/
-                │   ├── Evidencia_practica4.png
+                │   ├── evidencia_practica4.png
                 │   ├── bg_skeleton_card.xml
                 │   ├── bg_skeleton_placeholder.xml
                 │   └── uteq.webp

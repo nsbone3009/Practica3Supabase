@@ -61,22 +61,29 @@
 
     </com.facebook.shimmer.ShimmerFrameLayout>
 
-    <!-- Lista de alumnos real -->
-    <TextView
-        android:id="@+id/txtListaAlumnos"
+    <!-- ScrollView para la lista de alumnos real -->
+    <ScrollView
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginHorizontal="16dp"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
-        android:gravity="start|top"
-        android:padding="8dp"
-        android:scrollbars="vertical"
-        android:textSize="16sp"
-        android:visibility="gone"
+        android:fillViewport="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txtHeader" />
+        app:layout_constraintTop_toBottomOf="@+id/txtHeader">
+
+        <TextView
+            android:id="@+id/txtListaAlumnos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start|top"
+            android:padding="8dp"
+            android:scrollbars="vertical"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+    </ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
